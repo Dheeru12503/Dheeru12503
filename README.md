@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dheeraj Kumar</h1>
-<h3 align="center">🚀 Full Stack Developer | Passionate about building scalable web apps with modern tech. 🧠 Competitive Programmer | Solving real-world problems through clean, efficient code.</h3>
+<h3 align="center">🚀 Full Stack Developer | Passionate about building scalable web apps with modern tech. <br/> 🧠 Competitive Programmer | Solving real-world problems through clean, efficient code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dheeru12503&label=Profile%20views&color=0e75b6&style=flat" alt="dheeru12503" /> </p>
 
